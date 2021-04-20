@@ -33,7 +33,10 @@ Sometimes it's useful to have different levels of headings to structure your doc
 
 :joy_cat:
 
-images/04-nature_721703848.jpg
+![image1](images/04-nature_721703848.jpg)
+![image2](images/images.jpeg)
+![image3](images/istockphoto-636379014-612x612.jpg)
+
 
 | Names | Class | 
 | ------| ----- |
