@@ -33,7 +33,7 @@ Sometimes it's useful to have different levels of headings to structure your doc
 
 :joy_cat:
 
-
+images/04-nature_721703848.jpg
 
 | Names | Class | 
 | ------| ----- |
@@ -47,6 +47,6 @@ http://www.github.com/
 def foo():
 
     if not bar:
-    
+
         return True
 
