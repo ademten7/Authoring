@@ -29,6 +29,9 @@ Sometimes it's useful to have different levels of headings to structure your doc
 
 :jack_o_lantern:
 
+:japanese_ogre:
+
+:joy_cat:
 
 
 
